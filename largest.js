@@ -1,5 +1,5 @@
 
-const numbers = [150, 5999, 50, 1505, 1309, 2813]
+const numbers = [15, 5999, 5, 1505, 1309, 2813]
 
 let largetsNumber = numbers[0]
 
